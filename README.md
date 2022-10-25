@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+Aplikasi ini merupakan client side dari aplikasi [server](https://github.com/Anang-Abr/post-app-server) yang telah dibuat menggunakan NestJS.
+
+
+--documentation soon to be updated--
+
 ## Available Scripts
 
 In the project directory, you can run:
